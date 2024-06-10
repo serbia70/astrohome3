@@ -14,7 +14,7 @@
     position: absolute;
     height: 100%;
     /* border-right: 1px solid var(--border); */
-    right5: calc((var(--toc-width) + var(--gap)) * -0.85);
+    right: calc((var(--toc-width) + var(--gap)) * -0.85);
     top: calc(var(--gap) * 1);
     width: var(--toc-width);
 }
