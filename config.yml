@@ -152,10 +152,10 @@ params:
     
     - name: WeChat
       url: "img/wechat.png"
+    - name: xiaohongshu
+      url: "https://www.xiaohongshu.com/user/profile/62c99f18000000000303d6f8"
     - name: bilibili
-      url: "https://space.bilibili.com/280428279"
-    - name: email
-      url: "mailto:15810243114@163.com"
+      url: "https://space.bilibili.com/405346207"
     - name: RSS
       url: "index.xml"
 
