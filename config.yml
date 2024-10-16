@@ -1,6 +1,6 @@
 baseURL: https://serbia70.com
 languageCode: zh-cn # en-us
-title: 塞尔维亚之家
+title: 塞国007
 theme: PaperMod  # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true
@@ -55,10 +55,14 @@ languages:
     #       url: posts/life
     params: 
       homeInfoParams:
-        Title: "欢迎来到塞尔维亚之家🥂"
+        Title: "欢迎来到塞国007华人信息网"
         Content: >
           本站主要包括塞尔维亚移民买房、读书、生活等相关资讯。</br>                  
           遇到不懂的地方可以加我微信咨询：serbia70 </br> 
+          建议收藏 <a href="/web" target="_blank"><font color="#FF0000"><strong>塞尔维亚网址导航</strong></font></a>  
+          
+          希望能给大家的移民生活带来一点点便利 </br> 
+          
         
 
     menu:
@@ -88,8 +92,8 @@ languages:
           url: tags/学校/
           weight: 60 
         - identifier: guanggao
-          name: 广告
-          url: tags/广告/
+          name: 网址导航
+          url: /web
           weight: 70            
      
         #  - identifier: links
@@ -123,7 +127,7 @@ outputs:
 # 这里的参数会被代码以 .Site.Params 的形式读取
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "塞尔维亚之家, 塞尔维亚移民, 塞尔维亚生活, 塞尔维亚房产, 塞尔维亚学校"
+  description: "塞尔维亚之家, 塞尔维亚移民, 塞尔维亚生活, 塞尔维亚房产, 塞尔维亚学校,塞尔维亚买房,塞国007,"
   author: it陈 # author: ["Me", "You"] # multiple authors
   draft: flase
   defaultTheme: auto  # defaultTheme: light or  dark 
