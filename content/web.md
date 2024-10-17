@@ -9,17 +9,13 @@ ref: web
 
 
 
-## <a href="#其他" target="_blank"><font color="#FF6200"><strong>点击直达页尾</strong></font></a>
-
-
 
 <br>
 
 ### <strong>塞国007</strong>
 
-<a href="https://serbia70.com" target="_blank"><font color="#FF0000"><strong>中国超市</strong></font></a> |
-<a href="https://www.xiaohongshu.com/user/profile/62c99f18000000000303d6f8" target="_blank"><strong>小红书</strong></a> | 
-<a href="https://serbia70.com/post/" target="_blank"><strong>移民教程</strong></a> | 
+<a href="https://www.xiaohongshu.com/user/profile/62c99f18000000000303d6f8" target="_blank"><font color="#FF0000"><strong>小红书</strong></font></a> |
+
 
 
 <br>
@@ -50,10 +46,10 @@ ref: web
 
 
 <a href="https://www.maxi.rs/" target="_blank"><strong>maxi</strong></a> | 
-<a href="https://www.maxi.rs/" target="_blank"><strong>maxi会员卡</strong></a> | 
+<a href="https://serbia70.com/posts/maxi/" target="_blank"><strong>maxi会员卡</strong></a> | 
 <a href="https://www.idea.rs/" target="_blank"><strong>idea</strong></a> |
 
-<a href="https://www.idea.rs/" target="_blank"><strong>idea会员卡</strong></a> |
+<a href="https://serbia70.com/posts/maxi/" target="_blank"><strong>idea会员卡</strong></a> |
 <a href="https://www.univerexport.rs/" target="_blank"><strong>univerexport</strong></a> |
 <a href="https://elakolije.rs/" target="_blank"><strong>univerexport网上购物</strong></a> |
 
@@ -219,5 +215,4 @@ ref: web
 <br>
 
 
-## <a href="#" target="_blank"><font color="#FF6200"><strong>点击直达页头</strong></font></a>
 

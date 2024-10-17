@@ -91,11 +91,15 @@ languages:
           name: 学校
           url: tags/学校/
           weight: 60 
-        - identifier: guanggao
-          name: 网址导航
+        - identifier: 导航
+          name: 导航
           url: /web
           weight: 70            
-     
+        - identifier: 好物
+          name: 好物
+          url: /goods
+          weight: 80  
+          
         #  - identifier: links
           #  name:  友链
           #  url: links
@@ -128,7 +132,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "塞尔维亚之家, 塞尔维亚移民, 塞尔维亚生活, 塞尔维亚房产, 塞尔维亚学校,塞尔维亚买房,塞国007,"
-  author: it陈 # author: ["Me", "You"] # multiple authors
+  author: 塞国007 # author: ["Me", "You"] # multiple authors
   draft: flase
   defaultTheme: auto  # defaultTheme: light or  dark 
   disableThemeToggle: false
@@ -160,6 +164,10 @@ params:
       url: "https://www.xiaohongshu.com/user/profile/62c99f18000000000303d6f8"
     - name: bilibili
       url: "https://space.bilibili.com/405346207"
+    - name: other
+      url: "img/douying.png"    
+    - name: tiktok
+      url: "https://www.douyin.com/user/MS4wLjABAAAA-K3SOmvw5LaEGs6wyjAhzi0ZZTeXNKm-TtbnI7oKBDM"
     - name: RSS
       url: "index.xml"
 
