@@ -61,7 +61,7 @@ ref: web
 
 ### 商店和网购
 <a href="https://www.eponuda.com/" target="_blank"><strong>eponuda（比价网）</strong></a> | 
-<a href="https://www.temu.com/rs/" target="_blank"><strong>temu海外拼多多</strong></a> | 
+<a href="https://serbia70.com/posts/temu" target="_blank"><strong>temu注册教程</strong></a> | 
 
 <a href="https://gigatron.rs/" target="_blank"><strong>gigatron（IT数码）</strong></a> | 
 <a href="https://www.tehnomanija.rs/" target="_blank"><strong>tehnomanija（IT数码）</strong></a> |
