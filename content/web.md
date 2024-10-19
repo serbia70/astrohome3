@@ -45,17 +45,16 @@ ref: web
 ### 超市和会员卡
 
 
-<a href="https://www.maxi.rs/" target="_blank"><strong>maxi</strong></a> | 
-<a href="https://serbia70.com/posts/maxi/" target="_blank"><strong>maxi会员卡</strong></a> | 
-<a href="https://www.idea.rs/" target="_blank"><strong>idea</strong></a> |
 
+<a href="https://serbia70.com/posts/maxi/" target="_blank"><strong>maxi会员卡</strong></a> | 
 <a href="https://serbia70.com/posts/maxi/" target="_blank"><strong>idea会员卡</strong></a> |
+<a href="https://www.lidl.rs/" target="_blank"><strong>lidl会员卡</strong></a> |
+
+<a href="https://cenoteka.rs/" target="_blank"><strong>超市比价网</strong></a> | 
 <a href="https://www.univerexport.rs/" target="_blank"><strong>univerexport</strong></a> |
 <a href="https://elakolije.rs/" target="_blank"><strong>univerexport网上购物</strong></a> |
 
-<a href="https://www.lidl.rs/" target="_blank"><strong>lidl</strong></a> |
-<a href="https://www.lidl.rs/" target="_blank"><strong>lidl会员卡</strong></a> |
-<a href="https://cenoteka.rs/" target="_blank"><strong>超市比价网</strong></a> | 
+
 
 
 <br>
@@ -82,12 +81,10 @@ ref: web
 <a href="https://www.shoppster.rs/" target="_blank"><strong>shoppster网店</strong></a> |
 <a href="https://www.hiper.rs/" target="_blank"><strong>hiper网店</strong></a> |
 
-<a href="https://www.dm.rs/brendovi/balea" target="_blank"><strong>DM（药妆）</strong></a> |
-<a href="https://www.dm.rs/brendovi/balea" target="_blank"><strong>DM（会员卡）</strong></a> |
-<a href="https://www.lilly.rs/" target="_blank"><strong>lilly（药妆）</strong></a> |
-<a href="https://www.dm.rs/brendovi/balea" target="_blank"><strong>lilly（会员卡）</strong></a> |
 
-<a href="https://www.drmax.rs/" target="_blank"><strong>drmax（药妆）</strong></a> |
+<a href="https://www.dm.rs/brendovi/balea" target="_blank"><strong>DM（会员卡）</strong></a> |
+<a href="http://localhost:1313/posts/lilly/" target="_blank"><strong>lilly（会员卡）</strong></a> |
+
 <a href="https://www.drmax.rs/" target="_blank"><strong>drmax（会员卡）</strong></a> |
 <a href="https://benu.rs/" target="_blank"><strong>benu（药妆）</strong></a> |
 <a href="https://benu.rs/" target="_blank"><strong>benu（会员卡）</strong></a> |

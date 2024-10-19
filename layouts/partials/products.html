@@ -1,0 +1,57 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ if $data.homepage.products.enable }}
+
+<section class="section gallery">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center mb-5">
+        <h1 class="font-weight-bold">新品上市</h1>
+      </div>
+	 
+      {{ range first 12 (where site.RegularPages "Type" "products") }}
+      <div class="col-lg-3 col-md-4 col-sm-6 col-6 mb-4">
+        <div class="block">
+          <a href="{{ .Permalink }}" class="product-thumbnail" aria-label="View details for {{ .Title }}">
+            {{ $image := "" }}
+            {{ if isset .Params "images" }}
+              {{ $image = index .Params.images 0 }}
+            {{ end }}
+            <img class="img-fluid" src="{{ $image | absURL }}" alt="{{ .Title }}" loading="lazy">
+          </a>
+        </div>
+        <div class="product-info">
+          <h4 class="mb-2"><a href="{{.Permalink}}" class="link-title">{{.Title}}</a></h4>
+          <p class="price">{{if .Params.discount_price}}{{site.Params.currency}}{{.Params.discount_price}}{{else}}{{site.Params.currency}}{{.Params.price}}{{end}}
+            {{if .Params.discount_price}}<s class="price">{{site.Params.currency}}{{ .Params.price }}</s>{{end}}
+          </p>
+		  </div>
+		  <div class="text-center">
+	      <button class="snipcart-add-item btn btn-sm btn-outline-primary" 
+          data-item-id="{{.Title | urlize}}__{{if .Params.discount_price}}{{.Params.discount_price}}{{else}}{{.Params.price}}{{end}}"
+          data-item-name="{{.Title}}"
+          data-item-image="{{with .Params.images}} {{range first 1 . }}{{. | absURL}}{{end}}{{end}}"
+          data-item-price="{{if .Params.discount_price}}{{.Params.discount_price}}{{else}}{{.Params.price}}{{end}}" data-item-url="{{.Permalink}}" 
+          {{ if .Params.colors }}
+          data-item-custom1-name="Choose Color"
+          data-item-custom1-options="{{range $index, $element:= .Params.colors}}{{ if eq $index 0 }}{{. | title}}{{ else }}|{{. | title }}{{end}}{{end}}"
+          {{ end }}
+          {{ if .Params.sizes }}
+          data-item-custom2-name="Choose Size"
+          data-item-custom2-options="{{range $index, $element:= .Params.sizes}}{{if eq $index 0}}{{. | title}}{{else}}|{{. | title}}{{end}}{{end}}"
+          {{end}}>{{"加入购物车"}}
+        </button>
+        </div>	
+      </div>
+      {{ end }}
+    </div>
+	<div class="col-12 text-center mb-5">
+      <a class="button button--salmon text--white button--lg" href="/products">
+         <h1 class="font-weight-bold"><br>查看全部商品</h1>
+        <i class="pi-arrow-right"></i>
+      </a>
+    </div>
+  </div>
+</section>
+
+{{ end }}
