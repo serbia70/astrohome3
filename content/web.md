@@ -82,12 +82,12 @@ ref: web
 <a href="https://www.hiper.rs/" target="_blank"><strong>hiper网店</strong></a> |
 
 
-<a href="https://www.dm.rs/brendovi/balea" target="_blank"><strong>DM（会员卡）</strong></a> |
-<a href="http://localhost:1313/posts/lilly/" target="_blank"><strong>lilly（会员卡）</strong></a> |
+<a href="https://serbia70.com/posts/dmzhuce" target="_blank"><strong>DM（注册）</strong></a> |
+<a href="https://serbia70.com/posts/lilly/" target="_blank"><strong>lilly（会员卡）</strong></a> |
 
 <a href="https://www.drmax.rs/" target="_blank"><strong>drmax（会员卡）</strong></a> |
 <a href="https://benu.rs/" target="_blank"><strong>benu（药妆）</strong></a> |
-<a href="https://benu.rs/" target="_blank"><strong>benu（会员卡）</strong></a> |
+
 
 <a href="https://www.kupujemprodajem.com/" target="_blank"><strong>kupujemprodajem（二手）</strong></a> |
 <a href="https://www.kupindo.com/" target="_blank"><strong>kupindo(二手)</strong></a> |
