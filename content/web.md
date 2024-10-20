@@ -47,8 +47,8 @@ ref: web
 
 
 <a href="https://serbia70.com/posts/maxi/" target="_blank"><strong>maxi会员卡</strong></a> | 
-<a href="https://serbia70.com/posts/maxi/" target="_blank"><strong>idea会员卡</strong></a> |
-<a href="https://www.lidl.rs/" target="_blank"><strong>lidl会员卡</strong></a> |
+<a href="https://serbia70.com/posts/idea/" target="_blank"><strong>idea会员卡</strong></a> |
+<a href="https://serbia70.com/posts/lidl/" target="_blank"><strong>lidl会员卡</strong></a> |
 
 <a href="https://cenoteka.rs/" target="_blank"><strong>超市比价网</strong></a> | 
 <a href="https://www.univerexport.rs/" target="_blank"><strong>univerexport</strong></a> |
@@ -123,6 +123,7 @@ ref: web
 <a href="http://www.mup.gov.rs/wps/portal/sr/gradjani/Informacije%20za%20strance" target="_blank"><strong>外国人信息</strong></a> | 
 <a href="https://welcometoserbia.gov.rs/" target="_blank"><strong>电子服务（申请居留）</strong></a> |
 <a href="https://eid.gov.rs/sr-Cyrl-RS/sta-je-egradjanin" target="_blank"><strong>电子公民</strong></a> |
+
 <a href="https://www.paragraf.rs/propisi/pravilnik-o-odobravanju-stalnog-nastanjenja.html" target="_blank"><strong>永居政策</strong></a> | 
 <a href="https://euprava.gov.rs/" target="_blank"><strong>euprava电子政务</strong></a> |
 
