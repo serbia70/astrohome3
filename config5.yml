@@ -59,9 +59,7 @@ languages:
         Content: >
           本站主要发布塞尔维亚移民买房、读书、生活等相关资讯。</br>                  
           遇到不懂的地方可以加我微信咨询：<font color="#FF0000"><strong>serbia70</strong></font></a> </br>           
-          点击访问 <a href="/web" target="_blank"><font color="#FF0000"><strong>塞尔维亚网址导航</strong></font></a>
-          
-          </br> 
+          点击访问 <a href="/web" target="_blank"><font color="#FF0000"><strong>塞尔维亚网址导航</strong></font></a>  
           
           希望能给大家的移民生活带来一点点便利 </br> 
           
@@ -262,3 +260,42 @@ services:
   twitter:
     disableInlineCSS: true
         
+
+
+params:
+  plugins:
+    css:
+      - link: https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700
+      - link: plugins/bootstrap/bootstrap.min.css
+      - link: plugins/themefisher-font/themefisher-font.min.css
+      - link: plugins/slick/slick.min.css
+      - link: https://cdn.snipcart.com/themes/v3.7.2/default/snipcart.css
+      - link: plugins/themify-icons/themify-icons.css
+    js:
+      - link: plugins/jquery/jquery.js
+      - link: plugins/bootstrap/bootstrap.min.js
+      - link: plugins/SyoTimer/jquery.syotimer.min.js
+      - link: plugins/slick/slick.min.js
+      - link: https://cdn.snipcart.com/themes/v3.7.2/default/snipcart.js
+      - link: plugins/instafeed-js/instafeed.min.js
+      - link: plugins/search/fuse.min.js
+      - link: plugins/search/mark.js
+      - link: plugins/search/search.js
+      - link: plugins/google-map/gmap.js
+
+params:
+  logo: images/logo.png
+  logo_width: 100px
+  description: This is meta description
+  author: Themefisher
+  currency: $
+  contact_form_action: "#"
+  preloader:
+    enable: true
+    preloader: ""
+  snipcart:
+    enable: true
+    snipcart_api: ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4
+  subscription:
+    mailchimp_form_action: https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074
+    mailchimp_form_name: b_463ee871f45d2d93748e77cad_a0a2c6d074

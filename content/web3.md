@@ -1,5 +1,5 @@
 ---
-title: "塞尔维亚网址导航"
+title: "塞尔维亚网址导航2"
 layout: "post"
 permalink: /web/
 published: true
@@ -9,13 +9,17 @@ ref: web
 
 
 
+## <a href="#其他" target="_blank"><font color="#FF6200"><strong>点击直达页尾</strong></font></a>
+
+
 
 <br>
 
 ### <strong>塞国007</strong>
 
-<a href="https://www.xiaohongshu.com/user/profile/62c99f18000000000303d6f8" target="_blank"><font color="#FF0000"><strong>小红书</strong></font></a> |
-
+<a href="https://serbia70.com" target="_blank"><font color="#FF0000"><strong>中国超市</strong></font></a> |
+<a href="https://www.xiaohongshu.com/user/profile/62c99f18000000000303d6f8" target="_blank"><strong>小红书</strong></a> | 
+<a href="https://serbia70.com/post/" target="_blank"><strong>移民教程</strong></a> | 
 
 
 <br>
@@ -45,23 +49,24 @@ ref: web
 ### 超市和会员卡
 
 
+<a href="https://www.maxi.rs/" target="_blank"><strong>maxi</strong></a> | 
+<a href="https://www.maxi.rs/" target="_blank"><strong>maxi会员卡</strong></a> | 
+<a href="https://www.idea.rs/" target="_blank"><strong>idea</strong></a> |
 
-<a href="https://serbia70.com/posts/maxi/" target="_blank"><strong>maxi会员卡</strong></a> | 
-<a href="https://serbia70.com/posts/maxi/" target="_blank"><strong>idea会员卡</strong></a> |
-<a href="https://www.lidl.rs/" target="_blank"><strong>lidl会员卡</strong></a> |
-
-<a href="https://cenoteka.rs/" target="_blank"><strong>超市比价网</strong></a> | 
+<a href="https://www.idea.rs/" target="_blank"><strong>idea会员卡</strong></a> |
 <a href="https://www.univerexport.rs/" target="_blank"><strong>univerexport</strong></a> |
 <a href="https://elakolije.rs/" target="_blank"><strong>univerexport网上购物</strong></a> |
 
-
+<a href="https://www.lidl.rs/" target="_blank"><strong>lidl</strong></a> |
+<a href="https://www.lidl.rs/" target="_blank"><strong>lidl会员卡</strong></a> |
+<a href="https://cenoteka.rs/" target="_blank"><strong>超市比价网</strong></a> | 
 
 
 <br>
 
 ### 商店和网购
 <a href="https://www.eponuda.com/" target="_blank"><strong>eponuda（比价网）</strong></a> | 
-<a href="https://serbia70.com/posts/temu" target="_blank"><strong>temu注册教程</strong></a> | 
+<a href="https://www.temu.com/rs/" target="_blank"><strong>temu海外拼多多</strong></a> | 
 
 <a href="https://gigatron.rs/" target="_blank"><strong>gigatron（IT数码）</strong></a> | 
 <a href="https://www.tehnomanija.rs/" target="_blank"><strong>tehnomanija（IT数码）</strong></a> |
@@ -81,10 +86,12 @@ ref: web
 <a href="https://www.shoppster.rs/" target="_blank"><strong>shoppster网店</strong></a> |
 <a href="https://www.hiper.rs/" target="_blank"><strong>hiper网店</strong></a> |
 
-
+<a href="https://www.dm.rs/brendovi/balea" target="_blank"><strong>DM（药妆）</strong></a> |
 <a href="https://www.dm.rs/brendovi/balea" target="_blank"><strong>DM（会员卡）</strong></a> |
-<a href="http://localhost:1313/posts/lilly/" target="_blank"><strong>lilly（会员卡）</strong></a> |
+<a href="https://www.lilly.rs/" target="_blank"><strong>lilly（药妆）</strong></a> |
+<a href="https://www.dm.rs/brendovi/balea" target="_blank"><strong>lilly（会员卡）</strong></a> |
 
+<a href="https://www.drmax.rs/" target="_blank"><strong>drmax（药妆）</strong></a> |
 <a href="https://www.drmax.rs/" target="_blank"><strong>drmax（会员卡）</strong></a> |
 <a href="https://benu.rs/" target="_blank"><strong>benu（药妆）</strong></a> |
 <a href="https://benu.rs/" target="_blank"><strong>benu（会员卡）</strong></a> |
@@ -120,7 +127,7 @@ ref: web
 <br>
 
 ### 移民
-<a href="http://www.mup.gov.rs/wps/portal/sr/gradjani/Informacije%20za%20strance" target="_blank"><strong>外国人信息</strong></a> | 
+<a href="外国人信息" target="_blank"><strong>外国人信息</strong></a> | 
 <a href="https://welcometoserbia.gov.rs/" target="_blank"><strong>电子服务（申请居留）</strong></a> |
 <a href="https://eid.gov.rs/sr-Cyrl-RS/sta-je-egradjanin" target="_blank"><strong>电子公民</strong></a> |
 <a href="https://www.paragraf.rs/propisi/pravilnik-o-odobravanju-stalnog-nastanjenja.html" target="_blank"><strong>永居政策</strong></a> | 
@@ -212,4 +219,5 @@ ref: web
 <br>
 
 
+## <a href="#" target="_blank"><font color="#FF6200"><strong>点击直达页头</strong></font></a>
 
