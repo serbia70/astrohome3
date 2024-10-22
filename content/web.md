@@ -31,6 +31,8 @@ ref: web
 
 <a href="https://serbia70.com/posts/fangchanshui/" target="_blank"><strong>房产税的计算方式</strong></a> |
 <a href="https://serbia70.com/posts/beograd/" target="_blank"><strong>贝尔格莱德买房介绍</strong></a> |
+<a href="https://cenestanova.com/" target="_blank"><strong>查房价</strong></a> |
+
 
 <a href="https://serbia70.com/posts/fangzihefa/" target="_blank"><strong>房屋合法化查询</strong></a> |
 <a href="https://www.mpravde.gov.rs/registar.php?id=6659" target="_blank"><strong>公证处名单大全</strong></a> |
