@@ -149,7 +149,12 @@ ref: web
 <a href="https://a1.rs/onlinetopup" target="_blank"><strong>A1充值</strong></a> | 
 <a href="https://mts.rs/Privatni/Mobilna/Pripejd/Dopuni-kredit" target="_blank"><strong>MTS充值</strong></a> |
 <a href="https://www.yettel.rs" target="_blank"><strong>yettel</strong></a> |
+
 <a href="https://www.globaltel.rs/" target="_blank"><strong>globalte虚拟卡</strong></a> | 
+<a href="https://serbia70.com/posts/serbiainternet/" target="_blank"><strong>互联网套餐</strong></a> | 
+
+
+
 
 <br>
 
