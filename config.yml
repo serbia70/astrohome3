@@ -53,10 +53,10 @@ languages:
     #       url: posts/read
     #     - name: 🏖️ 生活
     #       url: posts/life
-  
-    homeInfoParams:
-      Title: "欢迎来到塞国007华人信息网"
-      Content: >
+    params: 
+      homeInfoParams:
+        Title: "欢迎来到塞国007华人信息网"
+        Content: >
           本站主要发布塞尔维亚移民买房、读书、生活等相关资讯。</br>                  
           遇到不懂的地方可以加我微信咨询：<font color="#FF0000"><strong>serbia70</strong></font></a> </br>           
           点击访问 <a href="/web" target="_blank"><font color="#FF0000"><strong>塞尔维亚网址导航</strong></font></a>
@@ -151,6 +151,7 @@ params:
   ShowWordCounts: true
   VisitCount: true
   ShowLastMod: true #显示文章更新时间
+  busuanzi: true
 
   ShowToc: true # 显示目录
   TocOpen: true # 自动展开目录
@@ -173,7 +174,7 @@ params:
 
   label:
     text: "塞国007"
-    # icon: "img/avatar.gif"
+    #icon: "img/avatar.gif"
     iconHeight: 35
 
   analytics:
@@ -203,7 +204,7 @@ params:
 
   # footer配置
   StartYear: 2024 # 底部开始年份
-  #FilingNo: 京ICP备2021023168号-1 # 底部备案号
+  FilingNo: 京ICP备2021023168号-1 # 底部备案号
   # PublicSecurityIconLink: 填自己的公安图标链接 # 填自己的公安图标链接,可用绝对路径，相对路径如 img/beian.png
   # PublicNetworkSecurity: 填自己的公网安备 # 底部公网安备号
 
@@ -262,3 +263,4 @@ services:
   twitter:
     disableInlineCSS: true
         
+
