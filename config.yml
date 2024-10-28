@@ -204,7 +204,7 @@ params:
 
   # footer配置
   StartYear: 2024 # 底部开始年份
-  FilingNo: 京ICP备2021023168号-1 # 底部备案号
+  FilingNo: 塞尔维亚之家 # 底部备案号
   # PublicSecurityIconLink: 填自己的公安图标链接 # 填自己的公安图标链接,可用绝对路径，相对路径如 img/beian.png
   # PublicNetworkSecurity: 填自己的公网安备 # 底部公网安备号
 
