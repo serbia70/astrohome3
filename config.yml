@@ -167,7 +167,8 @@ params:
       url: "https://www.xiaohongshu.com/user/profile/62c99f18000000000303d6f8"
     - name: bilibili
       url: "https://space.bilibili.com/405346207" 
-    - name: 抖音
+      
+    - name: tiktok
       url: "https://www.douyin.com/user/MS4wLjABAAAA-K3SOmvw5LaEGs6wyjAhzi0ZZTeXNKm-TtbnI7oKBDM"
     - name: RSS
       url: "index.xml"
