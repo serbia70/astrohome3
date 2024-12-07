@@ -77,6 +77,7 @@ keywords:
 <a href="https://atom.rs/" target="_blank"><strong>atom(IT)</strong></a> |
 <a href="https://www.monitor.rs/" target="_blank"><strong>monitor(IT)</strong></a> |
 
+<a href="https://viphouse.rs/" target="_blank"><strong>viphouse(IT)</strong></a> |
 <a href="https://mi-srbija.rs/" target="_blank"><strong>小米商城</strong></a> |
 <a href="https://www.market.metalac.com/" target="_blank"><strong>metalac（厨房电器）</strong></a> |
 
@@ -98,6 +99,7 @@ keywords:
 <a href="https://www.kupujemprodajem.com/" target="_blank"><strong>kupujemprodajem（二手）</strong></a> |
 <a href="https://www.kupindo.com/" target="_blank"><strong>kupindo(二手)</strong></a> |
 <a href="https://www.limundo.com/" target="_blank"><strong>limundo(拍卖)</strong></a> |
+<a href="https://konovo.rs/" target="_blank"><strong>翻新笔记本和电脑配件</strong></a> |
 
 
 <br>
@@ -220,6 +222,8 @@ keywords:
 <a href="https://pepco.rs/" target="_blank"><strong>pepco服装家居类超高性价比</strong></a> |
 
 <a href="https://www.meremarketi.rs/" target="_blank"><strong>mere俄罗斯超市</strong></a> |
+
+<a href="https://www.reddit.com/r/pravnisaveti/" target="_blank"><strong>mere法律咨询</strong></a> |
 
 <br>
 
