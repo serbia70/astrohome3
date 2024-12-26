@@ -200,7 +200,7 @@ keywords:
 
 <a href="https://www.polazak.rs/sr/" target="_blank"><strong>欧洲巴士查询</strong></a> |
 <a href="https://serbia70.com/posts/moovit/" target="_blank"><strong>moovit公交查询</strong></a> |
-<a href="https://srbijavoz.rs/" target="_blank"><strong>火车高铁</strong></a> |
+<a href="https://serbia70.com/posts/huochepiao/" target="_blank"><strong>火车高铁</strong></a> |
 
 <a href="https://go.yandex/sr_rs/" target="_blank"><strong>yandex go打车</strong></a> |
 <a href="https://play.google.com/store/apps/details?id=buslogic.beogradplus&hl=sr" target="_blank"><strong>买车票</strong></a> |
