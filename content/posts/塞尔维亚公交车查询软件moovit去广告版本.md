@@ -19,4 +19,9 @@ https://apkmb.com/moovit-bus-train-schedules/download/
 
 下载这个是无广告版本的
 
-Moovit MOD APK 5.114.0.575 
+温馨提示
+https://apkmb.com  这个网站不是我的，懂手机的朋友就知道，这是一个非常知名的网站，可用来直接下载谷歌商店的软件，类似的网站还有apkpure和Auora  
+
+但是 apkmb.com 我平常是不推荐的，手机端下载会有很多广告，请用电脑端的浏览器端下载软件。
+
+
