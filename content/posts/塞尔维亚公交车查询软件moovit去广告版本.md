@@ -15,13 +15,19 @@ dir: posts
 
 下载地址
 
-https://apkmb.com/moovit-bus-train-schedules/download/
+https://apkmb.com/moovit-bus-train-schedules/download/    
+# 请用电脑端浏览器下载 手机端下载巨多广告。
 
-下载这个是无广告版本的
 
-温馨提示
-https://apkmb.com  这个网站不是我的，懂手机的朋友就知道，这是一个非常知名的网站，可用来直接下载谷歌商店的软件，类似的网站还有apkpure和Auora  
+# 如果只有手机，可以通过下面链接下载
 
-但是 apkmb.com 我平常是不推荐的，手机端下载会有很多广告，请用电脑端的浏览器端下载软件。
+https://wwxg.lanzoue.com/b00q05jb9c
+密码:serbia70
+
+里面有两个版本，一个114，一个119，都可以试试。
+
+# 纯分享，本人不对软件使用的任何问题负责。
+
+
 
 
