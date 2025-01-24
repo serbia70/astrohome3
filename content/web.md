@@ -142,7 +142,7 @@ keywords:
 <br>
 
 ### 日常开支
-<a href="https://portal.eps.rs/home" target="_blank"><strong>交电费</strong></a> | 
+<a href="https://serbia70.com/posts/jiaodianfei/" target="_blank"><strong>塞尔维亚网上交电费教程</strong></a> | 
 <a href="https://www.bvk.rs/provera-racuna/" target="_blank"><strong>水费查询</strong></a> |
 <a href="https://esanduce.rs/prijava" target="_blank"><strong>交水费</strong></a> |
 <a href="https://moj.srbijagas.com/pocetna" target="_blank"><strong>天然气</strong></a> |
