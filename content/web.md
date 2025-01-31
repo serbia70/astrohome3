@@ -226,7 +226,7 @@ keywords:
 
 <a href="https://www.meremarketi.rs/" target="_blank"><strong>mere俄罗斯超市</strong></a> |
 
-<a href="https://www.reddit.com/r/pravnisaveti/" target="_blank"><strong>mere法律咨询</strong></a> |
+<a href="https://www.reddit.com/r/pravnisaveti/" target="_blank"><strong>法律咨询</strong></a> |
 
 <br>
 
