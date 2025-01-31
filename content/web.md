@@ -219,6 +219,9 @@ keywords:
 ### 其他
 <a href="https://jysk.rs/pravila-i-uslovi#5" target="_blank"><strong>jysk家居</strong></a> | 
 <a href="https://www.ikea.com/rs/sr/" target="_blank"><strong>ikea宜家</strong></a> |
+<a href="https://www.formaideale.rs/" target="_blank"><strong>formaideale</strong></a> |
+<a href="https://matis.rs/" target="_blank"><strong>matis</strong></a> |
+
 <a href="https://pepco.rs/" target="_blank"><strong>pepco服装家居类超高性价比</strong></a> |
 
 <a href="https://www.meremarketi.rs/" target="_blank"><strong>mere俄罗斯超市</strong></a> |
