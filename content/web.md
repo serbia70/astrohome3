@@ -1,5 +1,5 @@
 ---
-date: 2024-10-18
+date: 2025-02-07
 title: "塞尔维亚网址导航"
 layout: "post"
 permalink: /web/
@@ -42,6 +42,8 @@ keywords:
 <a href="https://www.mpravde.gov.rs/registar.php?id=6659" target="_blank"><strong>公证处名单大全</strong></a> |
 <a href="https://www.rgz.gov.rs/" target="_blank"><strong>大地测量局</strong></a> |
 <a href="https://www.bvk.rs/wp-content/uploads/2023/01/kanalizacija_postojeci_objekat-min.pdf" target="_blank"><strong>城市污水处理</strong></a> |
+<a href="https://www.ingas.rs/cenovnik/cenaprikljucka/" target="_blank"><strong>天然气接入</strong></a> |
+
 
 
 
