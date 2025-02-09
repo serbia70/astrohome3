@@ -1,5 +1,5 @@
 ---
-date: 2025-02-07
+date: 2025-02-09
 title: "塞尔维亚网址导航"
 layout: "post"
 permalink: /web/
@@ -221,6 +221,19 @@ keywords:
 
 
 <br>
+
+### 家具
+<a href="https://jysk.rs/pravila-i-uslovi#5" target="_blank"><strong>jysk家居</strong></a> | 
+<a href="https://www.ikea.com/rs/sr/" target="_blank"><strong>ikea宜家</strong></a> |
+<a href="https://www.formaideale.rs/" target="_blank"><strong>formaideale</strong></a> |
+<a href="https://matis.rs/" target="_blank"><strong>matis</strong></a> |
+<a href="https://www.emmezeta.rs/" target="_blank"><strong>emmezeta</strong></a> |
+<a href="https://simpo.rs/" target="_blank"><strong>simpo</strong></a> |
+
+
+
+<br>
+
 
 ### 其他
 <a href="https://jysk.rs/pravila-i-uslovi#5" target="_blank"><strong>jysk家居</strong></a> | 
