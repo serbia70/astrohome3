@@ -1,6 +1,6 @@
 ---
 date: 2024-11-18
-lastmod: 2025-02-10
+lastmod: 2025-02-11
 title: "塞尔维亚网址导航"
 layout: "post"
 permalink: /web/
@@ -73,6 +73,8 @@ keywords:
 
 ### 商店和网购
 <a href="https://www.eponuda.com/" target="_blank"><strong>eponuda（比价网）</strong></a> | 
+<a href="https://www.idealno.rs" target="_blank"><strong>idealno（比价网）</strong></a> | 
+
 <a href="https://serbia70.com/posts/temu" target="_blank"><strong>temu注册教程</strong></a> | 
 
 <a href="https://gigatron.rs/" target="_blank"><strong>gigatron（IT数码）</strong></a> | 
