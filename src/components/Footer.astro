@@ -1,0 +1,25 @@
+---
+import config from '@config/index';
+import Container from './Container.astro';
+const { show_copyright_info, title, foot_site_info } = config;
+---
+
+<Container class='mt-10 border-t border-gray-100 dark:border-gray-800'>
+  <footer class='flex flex-col items-center'>
+    {
+      show_copyright_info && (
+        <div class='text-sm text-center'>
+          Copyright © {new Date().getFullYear()}
+          {title}. All rights reserved.
+        </div>
+      )
+    }
+    {
+      !!foot_site_info && (
+        <div class='flex justify-center gap-1 mt-1 text-sm text-center text-gray-500 dark:text-gray-600'>
+          {foot_site_info}
+        </div>
+      )
+    }
+  </footer>
+</Container>
