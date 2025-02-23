@@ -33,7 +33,8 @@ export default {
 
   cdn: 'https://cdn.laughingzhu.cn/',
   // giscus comment status
-  giscus: false,
+  giscus: true,
+  waline: true,
   
   // use search
   search: true,
