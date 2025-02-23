@@ -20,8 +20,8 @@ export const DEFAULT_GRID_COLUMNS: { [key: number]: string } = {
 
 export default {
   /** 网站配置信息 start */
-  title: '塞尔维亚买房',
-  author: '塞国007',
+  title: 'DevNow',
+  author: 'LaughingZhu',
   description: 'DevNow — 开发技术周刊',
   keywords: 'DevNow 开源技术博客项目。目前承载着一个技术新闻、开发weekly，每周一上午发布~',
   logo: 'https://r2.laughingzhu.cn/40850814d71699ef09fda435802bfe02-58f0d8.png',
@@ -33,9 +33,7 @@ export default {
 
   cdn: 'https://cdn.laughingzhu.cn/',
   // giscus comment status
-  giscus: false,
-
-  
+  giscus: true,
   // use search
   search: true,
   // pagntion 配置
