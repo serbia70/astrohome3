@@ -1,7 +1,7 @@
-...
+
  import { notionLoader } from 'notion-astro-loader';
 
-...
+
  export const NotionDocs = defineCollection({
   loader: notionLoader({
     auth: import.meta.env.NOTION_TOKEN,
