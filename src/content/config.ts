@@ -46,7 +46,7 @@ const Docs = defineCollection({
 export const collections = {
   doc: Docs
   // 如果需要接入 Notion 数据源，需要将下面的注释去掉
-   //notion: NotionDocs
+   notion: NotionDocs
 };
 
 /** 文档类型 */
