@@ -31,7 +31,7 @@ export const latestPosts = [
     return import.meta.env.PROD ? data.draft !== true : true;
   }))
   // 如果需要接入 Notion 数据源，需要将下面的注释去掉
-  // ...getNotionDocs
+  ...getNotionDocs
 ].sort((a, b) => new Date(b.data.publishDate).valueOf() - new Date(a.data.publishDate).valueOf());
 
 /**
