@@ -3,7 +3,6 @@ import { getCollection } from 'astro:content';
 import { richTextToPlainText } from 'notion-astro-loader';
 import { formatDate } from './utils';
 
-
 // 如果需要接入 Notion 数据源，需要将下面的注释去掉
 export const getNotionDocs = (await getCollection('notion')).map((item) => {
   return {
@@ -29,7 +28,7 @@ export const getNotionDocs = (await getCollection('notion')).map((item) => {
 export const latestPosts = [
   ...(await getCollection('doc', ({ data }) => {
     return import.meta.env.PROD ? data.draft !== true : true;
-  }))
+  })),
   // 如果需要接入 Notion 数据源，需要将下面的注释去掉
   ...getNotionDocs
 ].sort((a, b) => new Date(b.data.publishDate).valueOf() - new Date(a.data.publishDate).valueOf());

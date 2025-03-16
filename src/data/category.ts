@@ -21,20 +21,8 @@ export const categories: Category[] = [
     description: 'Something about Blog posts'
   },
   {
-    title: '贝尔格莱德',
-    slug: 'beograd',
-    color: 'orange',
-    description: 'Something about DevNow platform.'
-  },
-  {
     title: 'DevNow',
     slug: 'devnow',
-    color: 'orange',
-    description: 'Something about DevNow platform.'
-  },
-  {
-    title: '诺维萨德',
-    slug: 'novisad',
     color: 'orange',
     description: 'Something about DevNow platform.'
   }

@@ -1,7 +1,6 @@
 import type { Menu } from '@type/menu';
 import { getAllCategories } from '@utils/content';
 const category = await getAllCategories();
-const tags = await getAllCategories();
 
 export const LEFT_MENU: Menu[] = [
   // {
@@ -10,7 +9,7 @@ export const LEFT_MENU: Menu[] = [
   // },
 
   {
-    label: '关于我',
+    label: 'About',
     href: '/about'
   },
   {
@@ -29,12 +28,6 @@ export const RIGHT_MENU: Menu[] = [
     label: 'Github',
     href: 'https://github.com/LaughingZhu/DevNow',
     external: true
-  },
-  {
-    label: '城市',
-    href: '/tag',
-    isMobileHide: false,
-    children: tags
   }
 ];
 export const MOBILE_MENU: Menu[] = [...LEFT_MENU, ...RIGHT_MENU].filter(

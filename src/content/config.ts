@@ -35,7 +35,7 @@ const Docs = defineCollection({
   }),
   schema: SCHEMA
 });
- //接入 Notion 数据源，需要将下面的注释去掉
+// 接入 Notion 数据源，需要将下面的注释去掉
 export const NotionDocs = defineCollection({
   loader: notionLoader({
     auth: import.meta.env.PUBLIC_NOTION_TOKEN,
